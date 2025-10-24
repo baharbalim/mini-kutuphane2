@@ -88,7 +88,7 @@ function App() {
       }}
     >
       {/* Başlık */}
-      <h1 style={{ textAlign: "center", marginBottom: "20px" }}>Mini Kitap</h1>
+      <h1 style={{ textAlign: "center", marginBottom: "20px" }}>Mini Kitaplık</h1>
 
       {/* Üst: Arama ve kategori ortalanmış */}
       <div
